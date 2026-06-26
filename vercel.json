@@ -1,5 +1,5 @@
 {
-  "regions": ["cgk1"],
+  "regions": ["hkg1"],
   "rewrites": [
     { "source": "/api/proxy/(.*)", "destination": "/api/proxy" }
   ]
